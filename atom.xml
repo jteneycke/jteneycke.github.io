@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Grep it! Grok it? Good.]]></title>
+  <title><![CDATA[Grep it? Grok it. Good!]]></title>
   <link href="http://jteneycke.github.io/atom.xml" rel="self"/>
   <link href="http://jteneycke.github.io/"/>
-  <updated>2013-08-15T02:57:27-04:00</updated>
+  <updated>2013-08-15T03:16:44-04:00</updated>
   <id>http://jteneycke.github.io/</id>
   <author>
     <name><![CDATA[Josh Teneycke]]></name>
