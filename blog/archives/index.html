@@ -84,7 +84,7 @@
     
 <section>
 	<span>
-		<img src="http://www.gravatar.com/avatar/db5b6a1e5787696cb52f85d92c37b4f9?s=200" alt="Gravatar of Josh Teneycke " title="Gravatar of Josh Teneycke" />
+		<img class="center" src="http://www.gravatar.com/avatar/db5b6a1e5787696cb52f85d92c37b4f9?s=200" alt="Gravatar of Josh Teneycke " title="Gravatar of Josh Teneycke" />
 	</span>
 </section>
 
@@ -150,7 +150,7 @@
 
         for (index in badges) {
           fragment += '<a class="cw_badge"title="' + badges[index].description + '" target="_blank" href="http://coderwall.com/' + options.user + '">';
-          fragment +=   '<img alt="' + badges[index].description + '" height="' + width + '" width="' + height + '" src="' + badges[index].badge + '"/>';
+          fragment +=   '<img class="coder-badge" alt="' + badges[index].description + '" height="' + width + '" width="' + height + '" src="' + badges[index].badge + '"/>';
           fragment += '</a>';
         }
 
